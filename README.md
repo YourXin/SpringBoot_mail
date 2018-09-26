@@ -13,8 +13,8 @@
 1. pom.xml中引入spring-boot-starter-mail
 ```
 	<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-mail</artifactId>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-mail</artifactId>
 	</dependency>
 ```
 2. application.properties文件中设置你的邮箱参数 
